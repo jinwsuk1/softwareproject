@@ -1,0 +1,8 @@
+[project]
+name = "jinwsukpackage"
+version = "0.1.0"
+description = "A sample Python package"
+authors = [
+    { name = "jinwsuk", email = "jimwoosuk@gmail.com" }
+]
+dependencies = []
